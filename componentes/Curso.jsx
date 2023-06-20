@@ -14,10 +14,11 @@ function Cursos(props){
                 <div className='con-cali' style={estrella}>
                     <p style={margin}>2,0</p><Start  calificacion={2}/><p style={margin}>(90)</p>
                 </div>
-                
+                <div className='inscripcion-curso'>
+
+                </div>
             </div>
         </div>
     )
 }
 export default Cursos
-

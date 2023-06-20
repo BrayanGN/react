@@ -25,7 +25,6 @@
 }
 
 .container:hover{
-    margin: auto;
   animation-play-state: paused;
 }
 
